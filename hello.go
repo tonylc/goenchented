@@ -132,13 +132,15 @@ const headerHTML = `
     <!--[if lte IE 8]>
   <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
+  <style>` + mastercssHTML + `</style>
 
+<!--
   <link href="http://enchented2.herokuapp.com/stylesheets/master.css?1325274968" media="screen" rel="stylesheet" type="text/css" />
 <link href="http://enchented2.herokuapp.com/stylesheets/layout.css?1325274968" media="screen" rel="stylesheet" type="text/css" />
 <link href="http://enchented2.herokuapp.com/stylesheets/global.css?1325274968" media="screen" rel="stylesheet" type="text/css" />
 <link href="http://enchented2.herokuapp.com/stylesheets/groups.css?1325274968" media="screen" rel="stylesheet" type="text/css" />
 <link href="http://enchented2.herokuapp.com/stylesheets/patterns.css?1325274968" media="screen" rel="stylesheet" type="text/css" />
-<link href="http://enchented2.herokuapp.com/stylesheets/widgets.css?1325274968" media="screen" rel="stylesheet" type="text/css" />
+<link href="http://enchented2.herokuapp.com/stylesheets/widgets.css?1325274968" media="screen" rel="stylesheet" type="text/css" /> -->
 
 
 
